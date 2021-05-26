@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "514189502792",
+    "project_id": "natapp-406aa",
+    "storage_bucket": "natapp-406aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514189502792:android:b190b20eb614b57eacab7d",
+        "android_client_info": {
+          "package_name": "com.natrix.natapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514189502792-6l2gj12na5qham1buusrsp89oelvke1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0FsP1VLEi_0rpJ8yZmIKlsnR4eFCQ5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514189502792-6l2gj12na5qham1buusrsp89oelvke1j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514189502792-hp5vavak20q17m2cpqcegfpe9bp17q1f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.natrix.natapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
